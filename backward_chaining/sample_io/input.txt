@@ -1,0 +1,13 @@
+C(Bob)
+11
+A(Cat)&B(x)&D(x,Andy)=>C(Bobi)
+D(Bob,Andy)&B(x)=>C(Bob)
+C(Cat)
+B(Bob)
+A(x)=>D(Bob,Andy)
+B(Andy)
+B(Pappu)
+E(Bob)
+A(Cat)
+E(Something)
+B(Somethingelse)
